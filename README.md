@@ -1,4 +1,5 @@
-# Pupy
+# Pupy 全平台远程控制
+
 Pupy is an opensource, multi-platform Remote Administration Tool written in Python. On Windows, Pupy uses reflective dll injection and leaves no traces on disk.
 
 ## Features :
